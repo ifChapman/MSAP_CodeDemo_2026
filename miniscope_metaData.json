@@ -1,0 +1,18 @@
+{
+    "ROI": {
+        "height": 600,
+        "leftEdge": 0,
+        "topEdge": 0,
+        "width": 600
+    },
+    "compression": "GREY",
+    "deviceDirectory": "C:/Users/Ian_PC2/Desktop/MiniscopeDataNew/IFC/FreelyMoving_OdorPresentations/080005/Day1_CleanCage_beddingSwap/2024_12_04/08_48_53/My_V4_Miniscope",
+    "deviceID": 1,
+    "deviceName": "My V4 Miniscope",
+    "deviceType": "Miniscope_V4_BNO",
+    "ewl": -40,
+    "frameRate": 15,
+    "framesPerFile": 1800,
+    "gain": 3.5,
+    "led0": 1
+}
